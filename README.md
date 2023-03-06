@@ -31,4 +31,4 @@
 [![](https://dcbadge.vercel.app/api/server/JQNA5B46xT)](https://discord.gg/JQNA5B46xT)
 
 # Mon Bot
-[![Discord Presence](https://discord.c99.nl/?url=938555032289280010)]
+![](https://discord.c99.nl/?url=938555032289280010)
