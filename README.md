@@ -29,3 +29,6 @@
 [![](https://dcbadge.vercel.app/api/server/whitehall)](https://discord.gg/whitehall)
 [![](https://dcbadge.vercel.app/api/server/zcN3sB5KSv)](https://discord.gg/zcN3sB5KSv)
 [![](https://dcbadge.vercel.app/api/server/JQNA5B46xT)](https://discord.gg/JQNA5B46xT)
+
+# Mon Bot
+![clean](https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true&theme=clean)
