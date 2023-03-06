@@ -27,5 +27,5 @@
 # Mes serveurs Discord
 
 [![](https://dcbadge.vercel.app/api/server/whitehall)](https://discord.gg/whitehall)
-[![](https://dcbadge.vercel.app/api/server/zcN3sB5KSv)](https://discord.gg/zcN3sB5KSv)<br>
+[![](https://dcbadge.vercel.app/api/server/zcN3sB5KSv)](https://discord.gg/zcN3sB5KSv)
 [![](https://dcbadge.vercel.app/api/server/JQNA5B46xT)](https://discord.gg/JQNA5B46xT)
