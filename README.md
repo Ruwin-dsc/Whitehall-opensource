@@ -11,3 +11,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=whitehall-opensource&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whitehall-opensource&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+# Contact moi
+
+<a href="https://discord.com/channels/@me/820361590826205215"> <img src="https://discord.c99.nl/widget/theme-2/820361590826205215.png" alt="contact moi">
