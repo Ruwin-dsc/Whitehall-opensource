@@ -25,3 +25,6 @@
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/820361590826205215)
 # Mes serveurs Discord
+![whitehall](https://discordapp.com/api/guilds/1014136063104647269/widget.png?style=banner4)
+![blackhall](https://discordapp.com/api/guilds/1014101627147407540/widget.png?style=banner4)
+![whitehall support](https://discordapp.com/api/guilds/1079000673942773790/widget.png?style=banner4)
