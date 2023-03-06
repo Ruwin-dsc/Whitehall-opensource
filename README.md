@@ -22,7 +22,5 @@
 # Contacte moi
 
 <a href="https://discord.com/channels/@me/820361590826205215"> <img src="https://discord.c99.nl/widget/theme-2/820361590826205215.png" alt="contact moi">
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/705665813994012695)](https://discord.com/users/705665813994012695)
 # Mes serveurs Discord
-
-<img src="https://discord.com/widget?id=1014136063104647269&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
