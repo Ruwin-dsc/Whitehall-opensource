@@ -21,7 +21,7 @@
 
 # Contacte moi
 
-<a href="https://discord.com/channels/@me/820361590826205215"> ![My Discord](https://discord-readme-badge.vercel.app/api?id=820361590826205215)
+<a href="https://discord.com/channels/@me/820361590826205215"> 
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/820361590826205215)
 # Mes serveurs Discord
