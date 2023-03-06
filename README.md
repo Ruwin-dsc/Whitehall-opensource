@@ -31,4 +31,4 @@
 [![](https://dcbadge.vercel.app/api/server/JQNA5B46xT)](https://discord.gg/JQNA5B46xT)
 
 # Mon Bot
-![clean](https://dcbadge.vercel.app/api/shield/852977967776399400?bot=true&theme=clean)
+![[https://discord.com/channels/@me/820361590826205215](https://discord.com/channels/@me/820361590826205215)](https://dcbadge.vercel.app/api/shield/990634397474643999?bot=true&theme=clean)
