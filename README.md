@@ -23,5 +23,5 @@
 
 <a href="https://discord.com/channels/@me/820361590826205215"> <img src="https://discord.c99.nl/widget/theme-2/820361590826205215.png" alt="contact moi">
   
-[![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/)
+[![Discord Presence](https://lanyard.cnrad.dev/api/820361590826205215)](https://discord.com/users/820361590826205215)
 # Mes serveurs Discord
